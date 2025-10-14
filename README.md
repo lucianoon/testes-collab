@@ -1,6 +1,5 @@
 
-[🧪 Testes e Experimentação - Colaboração com IA.md](https://github.com/user-attachments/files/22914174/Testes.e.Experimentacao.-.Colaboracao.com.IA.md)
-# 🧪 Testes e Experimentação - Colaboração com IA
+[🧪 Testes e Experimentação 
 
 Repositório dedicado a testes, experimentos e prototipagem rápida de soluções com Inteligência Artificial e ferramentas de colaboração.
 
